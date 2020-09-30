@@ -1,6 +1,12 @@
-# banking-app
+# Banking App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
+## About
+
+This application allows a user to create account and perform dummy transactions on it.
+
+## Technology Used
+
+- Angular 4
 
 ## Development server
 
